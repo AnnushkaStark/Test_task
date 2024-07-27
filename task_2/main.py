@@ -1,6 +1,6 @@
 import sqlite3 as sql
 
-from data import USERS
+from datas import USERS
 from database_controller import QUERY_FILL_DATA, QUERY_SELECT_OLDER_30
 
 DB_PATH = "task_2.db"
